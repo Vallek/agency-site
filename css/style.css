@@ -634,32 +634,29 @@ body {
 	display: flex;
 }
 
+.social-icon::after {
+	width: 40px;
+    height: 40px;
+}
+
 .twi::after {
 	content: url('../images/twi.svg');
 	display: block;
-    width: 40px;
-    height: 40px;
 }
 
 .face::after {
 	content: url('../images/facebook.svg');
 	display: block;
-    width: 40px;
-    height: 40px;
 }
 
 .linked::after {
 	content: url('../images/linkedin.svg');
 	display: block;
-    width: 40px;
-    height: 40px;
 }
 
 .google::after {
 	content: url('../images/google.svg');
 	display: block;
-    width: 40px;
-    height: 40px;
 }
 
 /* Responsive */
