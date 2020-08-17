@@ -550,8 +550,9 @@ body {
 }
 
 .feedback-message {
+	box-sizing: border-box;
 	width: 100%;
-	min-height: 252px;
+	height: 252px;
 	background-color: rgba(0,0,0,0.1);
 	border-radius: 5px;
 	resize: none;
