@@ -1,12 +1,12 @@
 body {
 	margin: 0;
-	padding-top: 30px;
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 }
 
 /* Header */
 .header-style {
 	background-color: #F6F2F2;
+	padding-top: 30px;
 	padding-bottom: 100px;
 }
 
